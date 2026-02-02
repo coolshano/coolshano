@@ -9,9 +9,9 @@
 
 ## 📊 Completed Projects
 
-<a href="https://coolshano.github.io/shannonsmith.github.io/" target="_blank"
+<a href="https://www.resumemansion.com/" target="_blank"
    style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">
-   🌐 Visit My Website
+   🌐 Resume Mansion
 </a>
 
 ---
