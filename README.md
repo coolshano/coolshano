@@ -43,4 +43,5 @@
 
 ## 🌍 Connect
 - LinkedIn: https://www.linkedin.com/in/shannonandriansmith
-- Mobile: +94763819769
+- Whatsapp: +94763819769
+- Email: shannon@snaptechai.com | silveraldrin@gmail.com
