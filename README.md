@@ -10,12 +10,23 @@
 ## 📊 Completed Projects
 
 <a href="https://www.resumemansion.com/" target="_blank" style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">🌐 Resume Mansion</a>
+<a href="https://www.makemycv.lk/" target="_blank" style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">🌐 Make My CV</a>
+<a href="https://sasbanking.online/" target="_blank" style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">🌐 SAS Banking | Secure Authentication</a>
 
 ---
 
 ## 🧠 Tech Stack
 `Python` `AWS` `Docker` `Kubernetes` `Terraform` `Django`  
 `MLOps` `LLMs` `CI/CD` `Azure`
+
+---
+
+## 🏦 Experience
+- Virtusa
+- Huawei
+- Singapore Airlines
+- TravSim
+- TripToMedic
 
 ---
 
