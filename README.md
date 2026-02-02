@@ -9,10 +9,7 @@
 
 ## 📊 Completed Projects
 
-<a href="https://www.resumemansion.com/" target="_blank"
-   style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">
-   🌐 Resume Mansion
-</a>
+<a href="https://www.resumemansion.com/" target="_blank" style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">🌐 Resume Mansion</a>
 
 ---
 
