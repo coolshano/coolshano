@@ -21,12 +21,15 @@
 
 ---
 
-## 🏦 Experience
+## 🏦 Companies I have worked with
 - Virtusa
 - Huawei
 - Singapore Airlines
 - TravSim
 - TripToMedic
+- CSGI
+- MTN
+- Dialog Axiata
 
 ---
 
