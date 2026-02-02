@@ -26,7 +26,7 @@
 
 ## 🧠 Tech Stack
 `Python` `AWS` `Docker` `Kubernetes` `Terraform` `Django`  
-`MLOps` `LLMs` `CI/CD`
+`MLOps` `LLMs` `CI/CD` `Azure`
 
 ---
 
@@ -40,4 +40,3 @@
 
 ## 🌍 Connect
 - LinkedIn: https://www.linkedin.com/in/shannonandriansmith  
-- Website: https://coolshano.github.io/shannonsmith.github.io/
