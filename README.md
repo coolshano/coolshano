@@ -7,20 +7,12 @@
 
 ---
 
-## 🚀 My Live Platform
-🔗 **https://coolshano.github.io/shannonsmith.github.io/**
+## 📊 Completed Projects
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolshano&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolshano&theme=radical" />
-</p>
+<a href="https://coolshano.github.io/shannonsmith.github.io/" target="_blank"
+   style="background:#38bdf8;color:black;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none;">
+   🌐 Visit My Website
+</a>
 
 ---
 
