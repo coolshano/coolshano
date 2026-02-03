@@ -15,6 +15,10 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=coolshano&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 🧠 Tech Stack
 `Python` `AWS` `Docker` `Kubernetes` `Terraform` `Django`  
 `MLOps` `LLMs` `CI/CD` `Azure`
